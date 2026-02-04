@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<head>
+	<title>Strona z przyciskami</title>
+	<meta charset="utf-8"/>
+</head>
+<body>
+
+<h1>Plany lekcji</h1>
+<ul>
+	<li><a herf="https://prussiedlce.edupage.org/timetable/ 1">Plan lekcji 3a</a></li>
+	<li><a herf="https://prussiedlce.edupage.org/timetable/ 1">Plan lekcji 3b</a></li>
+	<li><a herf="https://prussiedlce.edupage.org/timetable/ 1">Plan lekcji 3c</a></li>
+	<li><a herf="https://prussiedlce.edupage.org/timetable/ 1">Plan lekcji 3d</a></li>
+	<li><a herf="https://prussiedlce.edupage.org/timetable/ 1">Plan lekcji 3e</a></li>
+</ul>
+
+</body>
+</html>
