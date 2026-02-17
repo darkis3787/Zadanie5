@@ -1,0 +1,45 @@
+/* Zmiana czcionki dla całej strony */
+body {
+    font-family: Arial, Verdana, sans-serif;
+    background-color: #f2f2f2;
+    color: #333333;
+}
+
+/* Nagłówki */
+h2 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Tabela */
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: white;
+}
+
+/* Nagłówki tabeli */
+th {
+    background-color: #444444;
+    color: white;
+    padding: 6px;
+}
+
+/* Komórki tabeli */
+td {
+    padding: 6px;
+    text-align: center;
+}
+
+/* Wyróżnienie informatyki */
+.informatyka {
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+}
+
+/* Wyróżnienie wychowawcy */
+.wychowawca {
+    color: darkred;
+    font-weight: bold;
+}
